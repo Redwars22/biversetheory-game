@@ -15,7 +15,7 @@ O jogo do Biverse Theory - Quando Andrew, Gabriel, Eric e Nicole achavam que tin
 - O poder de fogo queima os demônios.
 - O poder de solo os enterra.
 - O poder de vento os empurra para trás, desacelerando-os.
-- O poder de água (em breve) ...
+- O poder de água os mata afogados.
 - O poder de tornado os lança para bem longe, para outra dimensão (o tornado é terrivelmente potente).
 - Selecione o poder e toque duas vezes no local onde deseja ativar o poder.
 
